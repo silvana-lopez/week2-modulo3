@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombre">Nombre: </string>
+    <string name="fecha">Fecha de nacimiento: </string>
+    <string name="telefono">Telefono: </string>
+    <string name="email">Email: </string>
+    <string name="descripcion">Descripcion: </string>
+    <string name="mes">Mes: </string>
+    <string name="dia">Dia: </string>
+    <string name="anho">Año: </string>
+</resources>
